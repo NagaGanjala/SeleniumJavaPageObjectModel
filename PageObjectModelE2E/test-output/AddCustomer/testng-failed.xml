@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AddCustomer]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.bank.testcases.NewCustomerPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="addNewCustomer"/>
+          <include name="initialization"/>
+        </methods>
+      </class> <!-- com.bank.testcases.NewCustomerPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [AddCustomer] -->

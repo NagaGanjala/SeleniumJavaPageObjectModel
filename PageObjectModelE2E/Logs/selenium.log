@@ -1,0 +1,325 @@
+13:37:30,177  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:37:33,779  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:37:33,781  INFO devpinoyLogger:22 - *** Test Suite Test started ***
+13:37:33,828  INFO devpinoyLogger:32 - ==============================================
+13:37:33,828  INFO devpinoyLogger:33 - loginTest Test Case Started.....
+13:37:33,828  INFO devpinoyLogger:34 - *** Running test method loginTest...
+13:37:33,927  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:37:33,952  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:37:34,100  INFO devpinoyLogger:32 - Entered username
+13:37:34,101  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:37:34,125  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:37:34,255  INFO devpinoyLogger:35 - Entered password
+13:37:34,257  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:37:34,306  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:37:34,307  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:37:41,062  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:37:41,082  INFO devpinoyLogger:41 - Title of the page is:Guru99 Bank Manager HomePage
+13:37:41,088  INFO devpinoyLogger:45 - Login Test Case is Passed
+13:37:41,090  INFO devpinoyLogger:40 - loginTest Test Case Passed
+13:37:41,090  INFO devpinoyLogger:47 - *** Executed loginTest test successfully...
+13:37:41,608  INFO devpinoyLogger:108 - Total no of Rows:5
+13:37:41,639  INFO devpinoyLogger:111 - Total no of Columns:2
+13:37:41,932  INFO devpinoyLogger:32 - ==============================================
+13:37:41,933  INFO devpinoyLogger:33 - bankLoginAndLogout Test Case Started.....
+13:37:41,933  INFO devpinoyLogger:34 - *** Running test method bankLoginAndLogout...
+13:37:42,936  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:37:44,819  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:37:44,819  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:37:44,851  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:37:45,078  INFO devpinoyLogger:41 - Entered username
+13:37:45,080  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:37:45,107  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:37:45,257  INFO devpinoyLogger:45 - Entered password
+13:37:45,259  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:37:45,300  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:37:45,301  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:37:51,674  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:37:54,711 DEBUG devpinoyLogger:87 - org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+13:37:54,741  INFO devpinoyLogger:63 - Title of the page is:Guru99 Bank Manager HomePage
+13:37:54,764  INFO devpinoyLogger:68 - Login test passed
+13:37:54,766  INFO devpinoyLogger:90 - Trying to find Element By : By.linkText: Log out
+13:37:54,826  INFO devpinoyLogger:95 - Found Element By : By.linkText: Log out
+13:37:58,217  INFO devpinoyLogger:49 - Element tab clicked
+13:38:02,650  INFO devpinoyLogger:78 - Title of the page is:Guru99 Bank Home Page
+13:38:02,659  INFO devpinoyLogger:81 - Sucessfylly Logged out
+13:38:02,660  INFO devpinoyLogger:40 - bankLoginAndLogout Test Case Passed
+13:38:02,660  INFO devpinoyLogger:47 - *** Executed bankLoginAndLogout test successfully...
+13:38:02,663  INFO devpinoyLogger:32 - ==============================================
+13:38:02,663  INFO devpinoyLogger:33 - bankLoginAndLogout Test Case Started.....
+13:38:02,663  INFO devpinoyLogger:34 - *** Running test method bankLoginAndLogout...
+13:38:03,665  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:38:06,989  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:38:06,990  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:38:07,028  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:38:07,181  INFO devpinoyLogger:41 - Entered username
+13:38:07,182  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:38:07,236  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:38:07,400  INFO devpinoyLogger:45 - Entered password
+13:38:07,401  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:38:07,435  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:38:07,437  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:12,904  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:15,943  INFO devpinoyLogger:60 - ***** Error bankLoginAndLogout Test case has failed *****
+13:38:15,943 ERROR devpinoyLogger:61 - *** Test execution bankLoginAndLogout failed...
+13:38:18,453  INFO devpinoyLogger:32 - ==============================================
+13:38:18,454  INFO devpinoyLogger:33 - bankLoginAndLogout Test Case Started.....
+13:38:18,454  INFO devpinoyLogger:34 - *** Running test method bankLoginAndLogout...
+13:38:19,455  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:38:20,955  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:38:20,956  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:38:20,982  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:38:21,154  INFO devpinoyLogger:41 - Entered username
+13:38:21,155  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:38:21,179  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:38:21,321  INFO devpinoyLogger:45 - Entered password
+13:38:21,323  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:38:21,349  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:38:21,351  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:22,831  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:25,840 DEBUG devpinoyLogger:87 - org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+13:38:25,862  INFO devpinoyLogger:63 - Title of the page is:Guru99 Bank Manager HomePage
+13:38:25,883  INFO devpinoyLogger:68 - Login test passed
+13:38:25,884  INFO devpinoyLogger:90 - Trying to find Element By : By.linkText: Log out
+13:38:25,944  INFO devpinoyLogger:95 - Found Element By : By.linkText: Log out
+13:38:29,190  INFO devpinoyLogger:49 - Element tab clicked
+13:38:34,025  INFO devpinoyLogger:78 - Title of the page is:Guru99 Bank Home Page
+13:38:34,037  INFO devpinoyLogger:81 - Sucessfylly Logged out
+13:38:34,038  INFO devpinoyLogger:40 - bankLoginAndLogout Test Case Passed
+13:38:34,039  INFO devpinoyLogger:47 - *** Executed bankLoginAndLogout test successfully...
+13:38:34,040  INFO devpinoyLogger:32 - ==============================================
+13:38:34,040  INFO devpinoyLogger:33 - bankLoginAndLogout Test Case Started.....
+13:38:34,041  INFO devpinoyLogger:34 - *** Running test method bankLoginAndLogout...
+13:38:35,042  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:38:37,094  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:38:37,094  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:38:37,118  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:38:37,267  INFO devpinoyLogger:41 - Entered username
+13:38:37,269  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:38:37,286  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:38:37,402  INFO devpinoyLogger:45 - Entered password
+13:38:37,403  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:38:37,425  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:38:37,426  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:38,711  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:41,719 DEBUG devpinoyLogger:87 - org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+13:38:41,740  INFO devpinoyLogger:63 - Title of the page is:Guru99 Bank Manager HomePage
+13:38:41,763  INFO devpinoyLogger:68 - Login test passed
+13:38:41,764  INFO devpinoyLogger:90 - Trying to find Element By : By.linkText: Log out
+13:38:41,823  INFO devpinoyLogger:95 - Found Element By : By.linkText: Log out
+13:38:45,124  INFO devpinoyLogger:49 - Element tab clicked
+13:38:49,882  INFO devpinoyLogger:78 - Title of the page is:Guru99 Bank Home Page
+13:38:49,889  INFO devpinoyLogger:81 - Sucessfylly Logged out
+13:38:49,891  INFO devpinoyLogger:40 - bankLoginAndLogout Test Case Passed
+13:38:49,892  INFO devpinoyLogger:47 - *** Executed bankLoginAndLogout test successfully...
+13:38:49,894  INFO devpinoyLogger:32 - ==============================================
+13:38:49,894  INFO devpinoyLogger:33 - bankLoginAndLogout Test Case Started.....
+13:38:49,894  INFO devpinoyLogger:34 - *** Running test method bankLoginAndLogout...
+13:38:50,895  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:38:52,339  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:38:52,341  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:38:52,361  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:38:52,507  INFO devpinoyLogger:41 - Entered username
+13:38:52,508  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:38:52,529  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:38:52,655  INFO devpinoyLogger:45 - Entered password
+13:38:52,656  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:38:52,673  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:38:52,673  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:54,031  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:38:57,042 DEBUG devpinoyLogger:87 - org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+13:38:57,065  INFO devpinoyLogger:63 - Title of the page is:Guru99 Bank Manager HomePage
+13:38:57,089  INFO devpinoyLogger:68 - Login test passed
+13:38:57,090  INFO devpinoyLogger:90 - Trying to find Element By : By.linkText: Log out
+13:38:57,135  INFO devpinoyLogger:95 - Found Element By : By.linkText: Log out
+13:38:59,779  INFO devpinoyLogger:49 - Element tab clicked
+13:39:04,386  INFO devpinoyLogger:78 - Title of the page is:Guru99 Bank Home Page
+13:39:04,397  INFO devpinoyLogger:81 - Sucessfylly Logged out
+13:39:04,398  INFO devpinoyLogger:40 - bankLoginAndLogout Test Case Passed
+13:39:04,398  INFO devpinoyLogger:47 - *** Executed bankLoginAndLogout test successfully...
+13:39:04,404  INFO devpinoyLogger:32 - ==============================================
+13:39:04,405  INFO devpinoyLogger:33 - addNewCustomer Test Case Started.....
+13:39:04,405  INFO devpinoyLogger:34 - *** Running test method addNewCustomer...
+13:39:04,406  INFO devpinoyLogger:29 - Before navigating to: 'http://demo.guru99.com/V4/index.php'
+13:39:06,141  INFO devpinoyLogger:34 - Navigated to:'http://demo.guru99.com/V4/index.php'
+13:39:06,142  INFO devpinoyLogger:90 - Trying to find Element By : By.name: uid
+13:39:06,168  INFO devpinoyLogger:95 - Found Element By : By.name: uid
+13:39:06,277  INFO devpinoyLogger:36 - User name is provided: mngr262097
+13:39:06,279  INFO devpinoyLogger:90 - Trying to find Element By : By.name: password
+13:39:06,292  INFO devpinoyLogger:95 - Found Element By : By.name: password
+13:39:06,373  INFO devpinoyLogger:39 - Passsword is provided: byzuveg
+13:39:06,375  INFO devpinoyLogger:90 - Trying to find Element By : By.name: btnLogin
+13:39:06,400  INFO devpinoyLogger:95 - Found Element By : By.name: btnLogin
+13:39:06,400  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:39:07,739  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+13:39:10,742  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+13:39:10,778  INFO devpinoyLogger:95 - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+13:39:13,927  INFO devpinoyLogger:49 - Element tab clicked
+13:39:13,928  INFO devpinoyLogger:44 - providing customer details....
+13:39:13,929  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='name']
+13:39:13,959  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='name']
+13:39:14,150  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+13:39:14,171  INFO devpinoyLogger:95 - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+13:39:14,172  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //tr[5]//td[2]//input[1]]
+13:39:14,266  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //tr[5]//td[2]//input[1]]
+13:39:14,267  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@id='dob']
+13:39:14,291  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@id='dob']
+13:39:14,375  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@id='dob']
+13:39:14,392  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@id='dob']
+13:39:14,432  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@id='dob']
+13:39:14,443  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@id='dob']
+13:39:19,494  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //textarea[@name='addr']
+13:39:19,523  INFO devpinoyLogger:95 - Found Element By : By.xpath: //textarea[@name='addr']
+13:39:19,692  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='city']
+13:39:19,710  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='city']
+13:39:19,857  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='state']
+13:39:19,877  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='state']
+13:39:19,947  INFO devpinoyLogger:90 - Trying to find Element By : By.name: pinno
+13:39:19,964  INFO devpinoyLogger:95 - Found Element By : By.name: pinno
+13:39:20,073  INFO devpinoyLogger:90 - Trying to find Element By : By.name: telephoneno
+13:39:20,095  INFO devpinoyLogger:95 - Found Element By : By.name: telephoneno
+13:39:20,225  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='emailid']
+13:39:20,243  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='emailid']
+13:39:20,395  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='password']
+13:39:20,415  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='password']
+13:39:20,522  INFO devpinoyLogger:90 - Trying to find Element By : By.xpath: //input[@name='sub']
+13:39:20,539  INFO devpinoyLogger:95 - Found Element By : By.xpath: //input[@name='sub']
+13:39:20,539  INFO devpinoyLogger:49 - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //input[@name='sub']]
+13:39:21,937  INFO devpinoyLogger:54 - Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //input[@name='sub']]
+13:39:24,940  INFO devpinoyLogger:73 - validation started....
+13:39:24,946 DEBUG devpinoyLogger:87 - org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+13:39:24,967  INFO devpinoyLogger:85 - test case passed....
+13:39:24,969  INFO devpinoyLogger:40 - addNewCustomer Test Case Passed
+13:39:24,970  INFO devpinoyLogger:47 - *** Executed addNewCustomer test successfully...
+13:39:25,009  INFO devpinoyLogger:26 - *** Test Suite Test ending ***
+13:39:25,056 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,058 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+13:39:25,060 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+13:39:25,061 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+13:39:25,346 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,347 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+13:39:25,347 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+13:39:25,347 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+13:39:25,354 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,355 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+13:39:25,355 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+13:39:25,356 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+13:39:25,368 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,368 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+13:39:25,369 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+13:39:25,369 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+13:39:25,394 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,394 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+13:39:25,395 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+13:39:25,395 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+13:39:25,429 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,434 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,442 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,448 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,451 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,454 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,459 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,459 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+13:39:25,459 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+13:39:25,459 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+13:39:25,469 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,469 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+13:39:25,470 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+13:39:25,470 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+13:39:25,476 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,477 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+13:39:25,477 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+13:39:25,478 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+13:39:25,484 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,484 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+13:39:25,485 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+13:39:25,485 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+13:39:25,498 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,499 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+13:39:25,499 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+13:39:25,500 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+13:39:25,513 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,514 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+13:39:25,515 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+13:39:25,515 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+13:39:25,525 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,526 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+13:39:25,527 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+13:39:25,527 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+13:39:25,539 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,540 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+13:39:25,541 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+13:39:25,541 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+13:39:25,545 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,546 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+13:39:25,546 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+13:39:25,547 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+13:39:25,555 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,556 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+13:39:25,557 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+13:39:25,557 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+13:39:25,569 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,571 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+13:39:25,571 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+13:39:25,571 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+13:39:25,582 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,584 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,586 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,588 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,589 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,592 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+13:39:25,595 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,597 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+13:39:25,597 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+13:39:25,597 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+13:39:25,607 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,607 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+13:39:25,608 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+13:39:25,608 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+13:39:25,614 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,615 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+13:39:25,616 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+13:39:25,616 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+13:39:25,620 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,620 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+13:39:25,621 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+13:39:25,621 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+13:39:25,627 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,627 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+13:39:25,627 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+13:39:25,628 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+13:39:25,635 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+13:39:25,636 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+13:39:25,637 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+13:39:25,637 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/nagag/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+13:39:26,506 DEBUG devpinoyLogger:98 - test execution completed !!!

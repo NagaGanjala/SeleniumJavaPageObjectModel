@@ -1,0 +1,225 @@
+29/05/2020 13:37:30 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:37:33 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:37:33 devpinoyLogger *** Test Suite Test started ***
+29/05/2020 13:37:33 devpinoyLogger ==============================================
+29/05/2020 13:37:33 devpinoyLogger loginTest Test Case Started.....
+29/05/2020 13:37:33 devpinoyLogger *** Running test method loginTest...
+29/05/2020 13:37:33 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:37:33 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:37:34 devpinoyLogger Entered username
+29/05/2020 13:37:34 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:37:34 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:37:34 devpinoyLogger Entered password
+29/05/2020 13:37:34 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:37:34 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:37:34 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:37:41 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:37:41 devpinoyLogger Title of the page is:Guru99 Bank Manager HomePage
+29/05/2020 13:37:41 devpinoyLogger Login Test Case is Passed
+29/05/2020 13:37:41 devpinoyLogger loginTest Test Case Passed
+29/05/2020 13:37:41 devpinoyLogger *** Executed loginTest test successfully...
+29/05/2020 13:37:41 devpinoyLogger Total no of Rows:5
+29/05/2020 13:37:41 devpinoyLogger Total no of Columns:2
+29/05/2020 13:37:41 devpinoyLogger ==============================================
+29/05/2020 13:37:41 devpinoyLogger bankLoginAndLogout Test Case Started.....
+29/05/2020 13:37:41 devpinoyLogger *** Running test method bankLoginAndLogout...
+29/05/2020 13:37:42 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:37:44 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:37:44 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:37:44 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:37:45 devpinoyLogger Entered username
+29/05/2020 13:37:45 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:37:45 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:37:45 devpinoyLogger Entered password
+29/05/2020 13:37:45 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:37:45 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:37:45 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:37:51 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:37:54 devpinoyLogger org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+29/05/2020 13:37:54 devpinoyLogger Title of the page is:Guru99 Bank Manager HomePage
+29/05/2020 13:37:54 devpinoyLogger Login test passed
+29/05/2020 13:37:54 devpinoyLogger Trying to find Element By : By.linkText: Log out
+29/05/2020 13:37:54 devpinoyLogger Found Element By : By.linkText: Log out
+29/05/2020 13:37:58 devpinoyLogger Element tab clicked
+29/05/2020 13:38:02 devpinoyLogger Title of the page is:Guru99 Bank Home Page
+29/05/2020 13:38:02 devpinoyLogger Sucessfylly Logged out
+29/05/2020 13:38:02 devpinoyLogger bankLoginAndLogout Test Case Passed
+29/05/2020 13:38:02 devpinoyLogger *** Executed bankLoginAndLogout test successfully...
+29/05/2020 13:38:02 devpinoyLogger ==============================================
+29/05/2020 13:38:02 devpinoyLogger bankLoginAndLogout Test Case Started.....
+29/05/2020 13:38:02 devpinoyLogger *** Running test method bankLoginAndLogout...
+29/05/2020 13:38:03 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:06 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:06 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:38:07 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:38:07 devpinoyLogger Entered username
+29/05/2020 13:38:07 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:38:07 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:38:07 devpinoyLogger Entered password
+29/05/2020 13:38:07 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:38:07 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:38:07 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:12 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:15 devpinoyLogger ***** Error bankLoginAndLogout Test case has failed *****
+29/05/2020 13:38:15 devpinoyLogger *** Test execution bankLoginAndLogout failed...
+29/05/2020 13:38:18 devpinoyLogger ==============================================
+29/05/2020 13:38:18 devpinoyLogger bankLoginAndLogout Test Case Started.....
+29/05/2020 13:38:18 devpinoyLogger *** Running test method bankLoginAndLogout...
+29/05/2020 13:38:19 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:20 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:20 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:38:20 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:38:21 devpinoyLogger Entered username
+29/05/2020 13:38:21 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:38:21 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:38:21 devpinoyLogger Entered password
+29/05/2020 13:38:21 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:38:21 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:38:21 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:22 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:25 devpinoyLogger org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+29/05/2020 13:38:25 devpinoyLogger Title of the page is:Guru99 Bank Manager HomePage
+29/05/2020 13:38:25 devpinoyLogger Login test passed
+29/05/2020 13:38:25 devpinoyLogger Trying to find Element By : By.linkText: Log out
+29/05/2020 13:38:25 devpinoyLogger Found Element By : By.linkText: Log out
+29/05/2020 13:38:29 devpinoyLogger Element tab clicked
+29/05/2020 13:38:34 devpinoyLogger Title of the page is:Guru99 Bank Home Page
+29/05/2020 13:38:34 devpinoyLogger Sucessfylly Logged out
+29/05/2020 13:38:34 devpinoyLogger bankLoginAndLogout Test Case Passed
+29/05/2020 13:38:34 devpinoyLogger *** Executed bankLoginAndLogout test successfully...
+29/05/2020 13:38:34 devpinoyLogger ==============================================
+29/05/2020 13:38:34 devpinoyLogger bankLoginAndLogout Test Case Started.....
+29/05/2020 13:38:34 devpinoyLogger *** Running test method bankLoginAndLogout...
+29/05/2020 13:38:35 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:37 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:37 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:38:37 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:38:37 devpinoyLogger Entered username
+29/05/2020 13:38:37 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:38:37 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:38:37 devpinoyLogger Entered password
+29/05/2020 13:38:37 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:38:37 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:38:37 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:38 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:41 devpinoyLogger org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+29/05/2020 13:38:41 devpinoyLogger Title of the page is:Guru99 Bank Manager HomePage
+29/05/2020 13:38:41 devpinoyLogger Login test passed
+29/05/2020 13:38:41 devpinoyLogger Trying to find Element By : By.linkText: Log out
+29/05/2020 13:38:41 devpinoyLogger Found Element By : By.linkText: Log out
+29/05/2020 13:38:45 devpinoyLogger Element tab clicked
+29/05/2020 13:38:49 devpinoyLogger Title of the page is:Guru99 Bank Home Page
+29/05/2020 13:38:49 devpinoyLogger Sucessfylly Logged out
+29/05/2020 13:38:49 devpinoyLogger bankLoginAndLogout Test Case Passed
+29/05/2020 13:38:49 devpinoyLogger *** Executed bankLoginAndLogout test successfully...
+29/05/2020 13:38:49 devpinoyLogger ==============================================
+29/05/2020 13:38:49 devpinoyLogger bankLoginAndLogout Test Case Started.....
+29/05/2020 13:38:49 devpinoyLogger *** Running test method bankLoginAndLogout...
+29/05/2020 13:38:50 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:52 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:38:52 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:38:52 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:38:52 devpinoyLogger Entered username
+29/05/2020 13:38:52 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:38:52 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:38:52 devpinoyLogger Entered password
+29/05/2020 13:38:52 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:38:52 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:38:52 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:54 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:38:57 devpinoyLogger org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+29/05/2020 13:38:57 devpinoyLogger Title of the page is:Guru99 Bank Manager HomePage
+29/05/2020 13:38:57 devpinoyLogger Login test passed
+29/05/2020 13:38:57 devpinoyLogger Trying to find Element By : By.linkText: Log out
+29/05/2020 13:38:57 devpinoyLogger Found Element By : By.linkText: Log out
+29/05/2020 13:38:59 devpinoyLogger Element tab clicked
+29/05/2020 13:39:04 devpinoyLogger Title of the page is:Guru99 Bank Home Page
+29/05/2020 13:39:04 devpinoyLogger Sucessfylly Logged out
+29/05/2020 13:39:04 devpinoyLogger bankLoginAndLogout Test Case Passed
+29/05/2020 13:39:04 devpinoyLogger *** Executed bankLoginAndLogout test successfully...
+29/05/2020 13:39:04 devpinoyLogger ==============================================
+29/05/2020 13:39:04 devpinoyLogger addNewCustomer Test Case Started.....
+29/05/2020 13:39:04 devpinoyLogger *** Running test method addNewCustomer...
+29/05/2020 13:39:04 devpinoyLogger Before navigating to: 'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:39:06 devpinoyLogger Navigated to:'http://demo.guru99.com/V4/index.php'
+29/05/2020 13:39:06 devpinoyLogger Trying to find Element By : By.name: uid
+29/05/2020 13:39:06 devpinoyLogger Found Element By : By.name: uid
+29/05/2020 13:39:06 devpinoyLogger User name is provided: mngr262097
+29/05/2020 13:39:06 devpinoyLogger Trying to find Element By : By.name: password
+29/05/2020 13:39:06 devpinoyLogger Found Element By : By.name: password
+29/05/2020 13:39:06 devpinoyLogger Passsword is provided: byzuveg
+29/05/2020 13:39:06 devpinoyLogger Trying to find Element By : By.name: btnLogin
+29/05/2020 13:39:06 devpinoyLogger Found Element By : By.name: btnLogin
+29/05/2020 13:39:06 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:39:07 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> name: btnLogin]
+29/05/2020 13:39:10 devpinoyLogger Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+29/05/2020 13:39:10 devpinoyLogger Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+29/05/2020 13:39:13 devpinoyLogger Element tab clicked
+29/05/2020 13:39:13 devpinoyLogger providing customer details....
+29/05/2020 13:39:13 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='name']
+29/05/2020 13:39:13 devpinoyLogger Found Element By : By.xpath: //input[@name='name']
+29/05/2020 13:39:14 devpinoyLogger Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+29/05/2020 13:39:14 devpinoyLogger Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+29/05/2020 13:39:14 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //tr[5]//td[2]//input[1]]
+29/05/2020 13:39:14 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //tr[5]//td[2]//input[1]]
+29/05/2020 13:39:14 devpinoyLogger Trying to find Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:14 devpinoyLogger Found Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:14 devpinoyLogger Trying to find Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:14 devpinoyLogger Found Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:14 devpinoyLogger Trying to find Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:14 devpinoyLogger Found Element By : By.xpath: //input[@id='dob']
+29/05/2020 13:39:19 devpinoyLogger Trying to find Element By : By.xpath: //textarea[@name='addr']
+29/05/2020 13:39:19 devpinoyLogger Found Element By : By.xpath: //textarea[@name='addr']
+29/05/2020 13:39:19 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='city']
+29/05/2020 13:39:19 devpinoyLogger Found Element By : By.xpath: //input[@name='city']
+29/05/2020 13:39:19 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='state']
+29/05/2020 13:39:19 devpinoyLogger Found Element By : By.xpath: //input[@name='state']
+29/05/2020 13:39:19 devpinoyLogger Trying to find Element By : By.name: pinno
+29/05/2020 13:39:19 devpinoyLogger Found Element By : By.name: pinno
+29/05/2020 13:39:20 devpinoyLogger Trying to find Element By : By.name: telephoneno
+29/05/2020 13:39:20 devpinoyLogger Found Element By : By.name: telephoneno
+29/05/2020 13:39:20 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='emailid']
+29/05/2020 13:39:20 devpinoyLogger Found Element By : By.xpath: //input[@name='emailid']
+29/05/2020 13:39:20 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='password']
+29/05/2020 13:39:20 devpinoyLogger Found Element By : By.xpath: //input[@name='password']
+29/05/2020 13:39:20 devpinoyLogger Trying to find Element By : By.xpath: //input[@name='sub']
+29/05/2020 13:39:20 devpinoyLogger Found Element By : By.xpath: //input[@name='sub']
+29/05/2020 13:39:20 devpinoyLogger Trying to click on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //input[@name='sub']]
+29/05/2020 13:39:21 devpinoyLogger Clicked on: [[ChromeDriver: chrome on WINDOWS (d29814f34151edcd55e5d80855112c5c)] -> xpath: //input[@name='sub']]
+29/05/2020 13:39:24 devpinoyLogger validation started....
+29/05/2020 13:39:24 devpinoyLogger org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=83.0.4103.61)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-VO017NUI', ip: '192.168.0.103', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nagag\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d29814f34151edcd55e5d80855112c5c
+29/05/2020 13:39:24 devpinoyLogger test case passed....
+29/05/2020 13:39:24 devpinoyLogger addNewCustomer Test Case Passed
+29/05/2020 13:39:24 devpinoyLogger *** Executed addNewCustomer test successfully...
+29/05/2020 13:39:25 devpinoyLogger *** Test Suite Test ending ***
+29/05/2020 13:39:26 devpinoyLogger test execution completed !!!
